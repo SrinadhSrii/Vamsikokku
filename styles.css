@@ -1,3 +1,7 @@
+body{
+    display:block
+}
+
 .loadertext span,
 .loaderbgtext span {
     display: inline-block;
