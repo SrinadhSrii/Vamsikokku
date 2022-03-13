@@ -1,0 +1,38 @@
+.loadertext span,
+.loaderbgtext span {
+    display: inline-block;
+}
+
+.w2 {
+    padding-left: 3vw;
+}
+
+.logo {
+    line-height: 1.3;
+}
+
+.preloader {
+    background-color: #fff;
+    display: flex;
+}
+
+.loadertext {
+    z-index: 2;
+    position: absolute;
+    line-height: 1.3;
+}
+
+.aboutimg {
+    background-color: red;
+}
+
+/* .education .left {
+    max-height: 120px;
+} */
+
+.footer{
+    overflow: hidden;
+}
+.right.test{
+    overflow: hidden;
+}
